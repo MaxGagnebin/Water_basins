@@ -3,9 +3,9 @@
 """
 Created on Wed Aug 29 08:59:33 2018
 
-@author: maxime
+@author: Maxime Gagnebin
 
-excercice of rewriting farmer_basin
+excercice of writing water_basins
 """
 import numpy as np
 
